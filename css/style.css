@@ -10,7 +10,7 @@ h2 {
     margin-bottom:30px;margin-left:20px;padding-bottom:10px;border-bottom:4px solid black;
 }
 
-h2 .subTitle {
+.subTitle {
         font-size:3em;
         font-weight: bold;
 }
